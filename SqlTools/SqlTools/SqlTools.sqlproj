@@ -61,5 +61,9 @@
   <ItemGroup>
     <None Include="InsTextCreator.sql" />
     <None Include="ParsingString.sql" />
+    <None Include="eCert_StartTableDataChangeLog.sql" />
+    <None Include="eCert_ConvertXmlToTempTable%40Sel.sql" />
+    <None Include="eCert_DeleteTable%40Del.sql" />
+    <None Include="eCert_ScriptToAllDatabases%40Generate.sql" />
   </ItemGroup>
 </Project>
